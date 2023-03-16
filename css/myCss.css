@@ -1,0 +1,32 @@
+body, html {
+    height: 100%;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("../media/mypar.jpg");
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    display: inline;
+}
+
+.firstHR {
+    border: 2px solid black;
+}
+
+#chartContainer {
+    width: 900px !important;
+}
+
+.card {
+    width: 300px;
+    border: 1px solid rgba(0,0,0,.125) !important;
+    border-radius: 0.25rem !important;
+}
