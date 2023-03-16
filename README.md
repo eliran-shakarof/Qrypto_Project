@@ -1,0 +1,2 @@
+# Qrypto Project
+ jQuery
